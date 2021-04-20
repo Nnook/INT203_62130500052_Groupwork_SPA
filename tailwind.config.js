@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        sea: '#0fa9e6',
+        sea: '#63c5da',
         fuchsia: colors.fuchsia,
         salmon: '#F38375'
       }

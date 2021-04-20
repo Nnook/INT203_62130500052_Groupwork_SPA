@@ -1,8 +1,6 @@
 <template>
   <div class="max-w-xs rounded overflow-hidden shadow-lg my-2 bg-white">
-    <img
-      class="pt-2 w-screen h-48 object-contain"
-      src="../assets/1.jpeg"/>
+    <img class="pt-2 w-screen h-48 object-contain" src="../assets/1.jpeg" />
     <div class="px-6 py-4">
       <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
       <p class="text-grey-darker text-base">
@@ -11,20 +9,10 @@
         nihil.
       </p>
     </div>
-    <div class="px-6 py-4">
-      <button class="bg-gray-600 rounded">
-      <span
-        class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2"
-        >#photography</span
-      ></button>
-      <span
-        class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2"
-        >#travel</span
-      >
-      <span
-        class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker"
-        >#winter</span
-      >
+    <div class="px-6 py-4 ">
+      <button >
+        <img class="pt-2 w-10 h-10 " src="https://www.flaticon.com/svg/vstatic/svg/102/102280.svg?token=exp=1618940524~hmac=4f3715dfc1f73ef63dbb27bde6c1503e" />
+      </button>
     </div>
   </div>
 </template>
