@@ -3,7 +3,7 @@
     <div class="w-full h-full">
       <div class="container">
         <img class="logo" src="./assets/sherlock.png" />
-        <HelloWorld msg="Welcome to VueCLI project" />
+        <HelloWorld msg="Sherlock Holmes Bookcase" />
         <bookcase text="testing"/>
       </div>
     </div>
