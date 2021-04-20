@@ -1,10 +1,17 @@
 const colors = require('tailwindcss/colors')
 module.exports = {
-  purge: { content: ['./public/**/*.html', './src/**/*.vue'] },
+  purge: {
+    content: ['./public/**/*.html', './src/**/*.vue']
+  },
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      colors: {fuchsia: colors.fuchsia,sea:'#0fa9e6'}
+      colors: {
+        sea: '#0fa9e6',
+        fuchsia: colors.fuchsia,
+        salmon: '#F38375'
+      }
+
     },
   },
   variants: {
