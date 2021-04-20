@@ -10,12 +10,7 @@ module.exports = {
         sea: '#0fa9e6',
         fuchsia: colors.fuchsia,
         salmon: '#F38375'
-      },
-      backgroundImage: theme => ({
-        'sherlock': "url('/src/assets/bg.png')"
-
-      })
-
+      }
     },
   },
   variants: {

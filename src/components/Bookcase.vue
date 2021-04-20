@@ -12,7 +12,7 @@
       </p>
     </div>
     <div class="px-6 py-4">
-      <button class="bg-gray-800 rounded">
+      <button class="bg-gray-600 rounded">
       <span
         class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2"
         >#photography</span

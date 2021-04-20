@@ -1,5 +1,5 @@
 <template>
-<div class="w-screen h-screen bg-sherlock bg-gray-800" >
+<div class="w-screen h-screen bg-gray-800" >
     <div class="w-full h-full">
       <div class="container">
         <img class="logo" src="./assets/sherlock.png" />
