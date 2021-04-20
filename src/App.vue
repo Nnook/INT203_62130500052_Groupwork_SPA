@@ -4,18 +4,21 @@
       <div class="container">
         <img class="logo" src="./assets/sherlock.png" />
         <HelloWorld msg="Welcome to VueCLI project" />
+        <bookcase text="testing"/>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import Bookcase from './components/Bookcase.vue'
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    Bookcase
   }
 }
 </script>
