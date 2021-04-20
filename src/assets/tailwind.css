@@ -6,12 +6,12 @@
 
 .topic {
     @apply text-base text-fuchsia-500 tracking-wider font-semibold;
-  }
-  
-  .banner {
+}
+
+.banner {
     @apply flex flex-col items-center justify-center;
-  }
-  .logo {
+}
+
+.logo {
     @apply w-24 h-24;
-  }
-  
+}

@@ -1,8 +1,8 @@
 <template>
-<div class="w-screen h-screen">
+<div class="w-screen h-screen bg-sherlock bg-gray-800" >
     <div class="w-full h-full">
-      <div class="banner">
-        <img class="logo" alt="Vue logo" src="./assets/bg.png" />
+      <div class="container">
+        <img class="logo" src="./assets/sherlock.png" />
         <HelloWorld msg="Welcome to VueCLI project" />
       </div>
     </div>

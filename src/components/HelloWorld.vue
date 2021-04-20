@@ -1,10 +1,14 @@
 <template>
-  <div class="banner">
-    <h1 class="topic">{{ msg }}</h1>
-    <p class="text-sea">
-      with TailwindCSS Framework
-      <span class="text-salmon">and custom salmon color</span>
-    </p>
+   <div class="container">
+    <base-card>
+      <div class="container">
+        <h1 class="topic">{{ msg }}</h1>
+        <p class="text-sea">
+          with TailwindCSS Framework
+          <span class="text-salmon">and custom salmon color</span>
+        </p>
+      </div>
+    </base-card>
   </div>
 </template>
 
